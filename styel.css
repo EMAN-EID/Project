@@ -84,14 +84,14 @@ body {
 }
 
 .content {
-  display: flex; /* جعل العناصر بجانب بعضها */
-  align-items: center; /* محاذاة العناصر عموديًا */
-  gap: 40px; /* مسافة بين النص والصورة */
+  display: flex; 
+  align-items: center;
+  gap: 40px; 
   justify-content: space-around;
 }
 
 .hero-section {
-  max-width: 70%; /* النص يأخذ نصف العرض */
+  max-width: 70%; 
 }
 .image-section img {
   width: 600px;
